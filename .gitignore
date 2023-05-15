@@ -1,0 +1,19 @@
+$(project.image)/
+.mvn/
+app-2023-05-08.0.log
+app-2023-05-10.0.log
+app-2023-05-12.0.log
+app-2023-05-12.1.log
+app-2023-05-13.0.log
+app.log         #formula to print current date#
+mvnw
+mvnw.cmd
+pom.xml
+classpath
+.factorypath
+.project
+.settings/
+HELP.md
+target/
+.classpath
+
