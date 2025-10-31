@@ -10,7 +10,8 @@ public class BlogSpringApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(BlogSpringApplication.class, args);
-	}
+	    System.out.println("Hell");
+    }
 	
 	
 	//Step-(1) -->Add Model Mapper Maven Dependency in pom.xml file
